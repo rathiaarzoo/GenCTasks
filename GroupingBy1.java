@@ -1,3 +1,4 @@
+//Group by a List and display the total count of it.
 package com.mkyong.java8;
 
 import java.util.Arrays;
